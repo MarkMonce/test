@@ -3,4 +3,6 @@
 --     age INT
 -- );
 
-insert into users2 (username, age) values ("Rosie", 4);
+insert into users2 (username, age) values ("Amy", 2);
+
+-- select * from users2
